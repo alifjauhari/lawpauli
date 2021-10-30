@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 707, y: 392}
   m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
-  controlID: 19
+  controlID: 117
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_MinSize: {x: 231, y: 392}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 20
+  controlID: 118
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,10 +376,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 175}
-      m_SelectedIDs: 9e440000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 54fbffff7a400000
+      scrollPos: {x: 0, y: 415}
+      m_SelectedIDs: 68ebffff
+      m_LastClickedID: -5272
+      m_ExpandedIDs: a0edffffb0f1ffff3ef6ffff54fbffffa24b0000fe4c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -530,9 +530,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 721.6713, y: 124.48421, z: 334.43088}
+    m_Target: {x: 744.6753, y: 111.29376, z: 356.34534}
     speed: 2
-    m_Value: {x: 721.566, y: 124.14134, z: 334.0914}
+    m_Value: {x: 744.6753, y: 111.29376, z: 356.34534}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -579,13 +579,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11642893, y: -0.47096777, z: 0.062110685, w: 0.8725283}
+    m_Target: {x: 0.16336869, y: -0.76635957, z: 0.21314122, w: 0.58406323}
     speed: 2
-    m_Value: {x: 0.11630482, y: -0.47215098, z: 0.062268764, w: 0.87159}
+    m_Value: {x: -0.16332334, y: 0.76614684, z: -0.21308206, w: -0.5839011}
   m_Size:
-    m_Target: 17.298899
+    m_Target: 65.25973
     speed: 2
-    m_Value: 16.55397
+    m_Value: 68.33479
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -675,22 +675,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 74
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: 74
-  m_LastProjectPath: G:\CUBE\DEMO-BARU (Unity)\DEMO ViraExpoir
+  m_LastProjectPath: G:\CUBE\lawpauli\LOWPOLY
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 27}
-    m_SelectedIDs: 7e440000
-    m_LastClickedID: 17534
-    m_ExpandedIDs: 000000007e4400009a440000b6440000b8440000ea440000ec440000de54000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: bc440000
+    m_LastClickedID: 17596
+    m_ExpandedIDs: 00000000ae44000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -718,7 +718,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007e440000
+    m_ExpandedIDs: 00000000ae440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
