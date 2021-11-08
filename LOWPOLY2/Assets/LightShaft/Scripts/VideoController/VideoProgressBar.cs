@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using UnityEngine.Video;
 using System;
 using System.Collections;
+using LightShaft.Scripts;
 
 public class VideoProgressBar : MonoBehaviour, IDragHandler, IPointerDownHandler
 {
